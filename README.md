@@ -3,9 +3,13 @@
 Scan docs and save the scans locally
 
 ## Screenshots
+- Start capturing
 ![capture](./images/capture.jpeg)
+- Detects the doc
 ![capture highlight](./images/captureHighlight.jpeg)
+- Scans and clicks the picture
 ![scanned](./images/scanned.jpeg)
+- Adds to the list (pic from another scan)
 ![list](./images/list.jpeg)
 
 ## Run locally
